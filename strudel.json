@@ -2,12 +2,12 @@
     "_base":"https://raw.githubusercontent.com/data-dancers/halloween/main/",
     "the-devil-screams":["samples/(the-devil-screams).mp3"],
     "the-devil-screams-and-growls":["samples/(the-devil-screams-and-growls).mp3"],
-    "and-how-do-you-go-about-getting-an-exorcism":["samples/and-how-do-you-go-about-getting-an-exorcism.mp3"],
-    "and-i'm-the-devil-now-kindly-undo-these-straps":["samples/and-i'm-the-devil-now-kindly-undo-these-straps.mp3"],
+    "and-how-exorcism":["samples/and-how-exorcism.mp3"],
+    "the-devil-now":["samples/the-devil-now.mp3"],
     "exorcist_power_of_christ_x":["samples/exorcist_power_of_christ_x.mp3"],
-    "he's-a-liar-the-demon-is-a-liar-he-will-lie-to-confuse-us":["samples/he's-a-liar-the-demon-is-a-liar-he-will-lie-to-confuse-us.mp3"],
-    "i-cast-you-out-unclean-spirit!":["samples/i-cast-you-out-unclean-spirit!.mp3"],
-    "it-burns!-it-burns!":["samples/it-burns!-it-burns!.mp3"],
+    "liar-the-demon":["samples/liar-the-demon.mp3"],
+    "unclean-spirit!":["samples/unclean-spirit.mp3"],
+    "it-burns":["samples/it-burns.mp3"],
     "the-power-of-christ-compels":["samples/the-power-of-christ-compels.mp3"],
-    "you're-gonna-die-up-there":["samples/you're-gonna-die-up-there.mp3"]
+    "die-up-there":["samples/die-up-there.mp3"]
 }
